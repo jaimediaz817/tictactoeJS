@@ -1,0 +1,4 @@
+
+## COMANDOS:
+
+- platformio-ide-terminal
